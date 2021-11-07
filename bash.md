@@ -46,7 +46,7 @@ end each output line with 0 byte rather than newline
 display help and exit
 ```
 
-printing all variables name and value pairs
+printing all variable's name and value pairs
 ```
 printenv
 ```
