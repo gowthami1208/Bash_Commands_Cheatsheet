@@ -1,6 +1,6 @@
 # CLI CheatSheet for BASH commands
 
-##  [pwd](https://www.geeksforgeeks.org/xargs-command-unix)
+##  [xargs](https://www.geeksforgeeks.org/xargs-command-unix)
 
 xargs command is used to build and execute commands from standard input.it executes echo by default.
 ```
