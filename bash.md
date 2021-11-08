@@ -72,7 +72,7 @@ press Ctrl+o
 ```
 To cut paste in a file
 ```
-Ctrl+o is used to cut and Ctrl+u is used to paste the text.
+Ctrl+k is used to cut and Ctrl+u is used to paste the text.
 ```
 To search a word in a file.
 ```
